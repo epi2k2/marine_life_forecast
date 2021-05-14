@@ -19,7 +19,7 @@ There are two files that contain the necessary libraries depending on whether co
 ## Execution
 To run the application, you only need to execute the command: streamlit run app.py.
 
-If the process must be run from the beginning, each notebook must be run following the given order:
+If the process must be run from the beginning, each notebook must be executed in the given order:
 - 01_analysis_and_cleaning.ipynb
 - 02_data_enrichment_and_insights.ipynb
 - 03_feature_engineering_and_variable_importance.ipynb
